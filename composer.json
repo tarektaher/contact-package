@@ -1,5 +1,5 @@
 {
-    "name": "infinity/contact",
+    "name": "tarektaher/contact",
     "description": "This will send email contact",
     "type": "library",
     "license": "MIT",
@@ -12,13 +12,13 @@
     "minimum-stability": "dev",
     "autoload": {
         "psr-4": {
-            "Infinity\\Contact\\": "src/"
+            "Tarektaher\\Contact\\": "src/"
         }
     },
     "require": {},
     "extra" : {
         "providers": [
-            "Infinity\\Contact\\ContactServiceProvider"
+            "Tarektaher\\Contact\\ContactServiceProvider"
         ]
     }
 }

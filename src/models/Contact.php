@@ -1,6 +1,6 @@
 <?php
 
-namespace Infinity\Contact\Models;
+namespace Tarektaher\Contact\Models;
 
 use Illuminate\Database\Eloquent\Model;
 

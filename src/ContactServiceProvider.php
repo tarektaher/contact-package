@@ -1,6 +1,6 @@
 <?php
 
-namespace Infinity\Contact;
+namespace Tarektaher\Contact;
 
 use Illuminate\Support\ServiceProvider;
 

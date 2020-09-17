@@ -1,12 +1,12 @@
 <?php
 
-namespace Infinity\Contact\Http\Controllers;
+namespace Tarektaher\Contact\Http\Controllers;
 
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
-use Infinity\Contact\Mail\SendContact;
-use Infinity\Contact\Models\Contact;
+use Tarektaher\Contact\Mail\SendContact;
+use Tarektaher\Contact\Models\Contact;
 
 class ContactController extends Controller
 {

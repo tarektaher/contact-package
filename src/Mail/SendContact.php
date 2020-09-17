@@ -1,6 +1,6 @@
 <?php
 
-namespace Infinity\Contact\Mail;
+namespace Tarektaher\Contact\Mail;
 
 use Illuminate\Bus\Queueable;
 use Illuminate\Contracts\Queue\ShouldQueue;
