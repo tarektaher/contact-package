@@ -1,0 +1,24 @@
+{
+    "name": "infinity/contact",
+    "description": "This will send email contact",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tarektaher",
+            "email": "tarektaher@live.fr"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Infinity\\Contact\\": "src/"
+        }
+    },
+    "require": {},
+    "extra" : {
+        "providers": [
+            "Infinity\\Contact\\ContactServiceProvider"
+        ]
+    }
+}
